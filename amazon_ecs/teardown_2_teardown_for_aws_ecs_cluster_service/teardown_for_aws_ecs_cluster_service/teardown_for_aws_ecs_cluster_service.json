@@ -1,0 +1,14 @@
+{
+    "description": "",
+    "id": "OHK-hz7170l7",
+    "last_updated": "2023-11-28",
+    "max_retries": 0,
+    "maximum_version_required": "",
+    "minimum_version_required": "8.6",
+    "name": "Teardown for AWS ECS Cluster Service",
+    "resource_technologies": [],
+    "script_filename": "delete_RJbwdrb_wAxMhKC_aGDBHLW_u0t0cB6_29qYIjM_9NdzINu_6i3fWEc.py",
+    "shared": false,
+    "target_os_families": [],
+    "type": "CloudBolt Plug-in"
+}
