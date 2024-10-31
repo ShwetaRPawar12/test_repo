@@ -1,0 +1,15 @@
+{
+    "action_input_default_values": [],
+    "base_action_name": "Generate options for 'Variable Key'",
+    "continue_on_failure": false,
+    "description": null,
+    "enabled": true,
+    "hook_point": "Generated Parameter Options",
+    "id": "HPA-mn05f9yy",
+    "last_updated": "2024-10-31",
+    "maximum_version_required": "",
+    "minimum_version_required": "8.6",
+    "name": "Generate options for 'Variable Key'",
+    "run_on_statuses": "",
+    "run_seq": 19
+}

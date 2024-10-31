@@ -1,0 +1,14 @@
+{
+    "description": "",
+    "id": "OHK-m177agga",
+    "last_updated": "2024-10-31",
+    "max_retries": 0,
+    "maximum_version_required": "",
+    "minimum_version_required": "8.6",
+    "name": "Generate options for 'Variable Key Env'",
+    "resource_technologies": [],
+    "script_filename": "Sub File for Hook of Generate options for 'Variable Key Env' Script.py",
+    "shared": false,
+    "target_os_families": [],
+    "type": "CloudBolt Plug-in"
+}
