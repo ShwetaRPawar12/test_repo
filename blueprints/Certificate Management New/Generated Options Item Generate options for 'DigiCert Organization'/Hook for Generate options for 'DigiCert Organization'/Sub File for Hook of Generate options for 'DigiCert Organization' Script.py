@@ -25,7 +25,7 @@ def get_options_list(field, **kwargs):
     options.append("A")
     options.append("B")
     options.append("C")
-    options.insert(0, "Schön")
+    options.insert(0, "äöüßÄÖÜ")
 
     return {
         'options': options,
