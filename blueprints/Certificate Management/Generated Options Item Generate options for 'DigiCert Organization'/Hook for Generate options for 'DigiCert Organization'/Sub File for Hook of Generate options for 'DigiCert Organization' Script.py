@@ -20,7 +20,8 @@ def get_options_list(field, **kwargs):
    response = requests.get(f"{ ci.ip }/organization?filters[status]=active&include_validation=true", headers=headers)
    result = response.json()
    options = [item['display_name'] for item in result['organizations'] if 'display_name' in item]
-   options.insert(0, 'Deutsche Vermögensberatung Aktiengesellschaft DVAG')
+#   options.insert(0, 'Deutsche Vermögensberatung Aktiengesellschaft DVAG')
+   options.insert(0, "Schön")
 
     return {
         'options': options,
